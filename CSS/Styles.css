@@ -562,5 +562,33 @@ p {
 
 /* ---------- MOBILE---------- */
 
+th {
+    color: pink;
+}
 
+
+p {
+    font-size: 20px
+}
+
+
+.EMMACHAMBERLAIN__entrevistas {
+    background-color:rgb(211, 97, 116);
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    
+}
+
+.EMMACHAMBERLAIN__entrevistas:hover {
+    background-color: rgb(249, 161, 151);
+    transform: scale(1.1);
+    100%{top:0px;}
+}
+
+.EMMACHAMBERLAIN__premios {
+    margin-left: auto;
+    margin-right: auto;
+}
 }
